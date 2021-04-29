@@ -46,5 +46,4 @@ class MathController < ActionController::Base
     render({ :template => "math_templates/divide_results.html.erb"})
   end
 
-
 end
